@@ -1,6 +1,6 @@
 import sys
 
-sors = open("/home/jan/Desktop/ch").read()
+sors = open("characters.txt").read()
 sors = "0".join(sors.split("\n"))
 
 x=6;y=5
